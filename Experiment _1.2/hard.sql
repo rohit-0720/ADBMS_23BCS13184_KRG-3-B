@@ -1,5 +1,5 @@
 /*
-Experiment - 2.2
+Experiment - 1.2 hard
 Problem Title: NPV Lookup Using LEFT JOIN
 
 You have two tables:
