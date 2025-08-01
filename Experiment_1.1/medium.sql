@@ -1,5 +1,5 @@
 /*
-Experiment - 1.2
+medium - 1.1
 Problem Title: Department-Course Subquery and Access Control
 
 Step-by-Step:
