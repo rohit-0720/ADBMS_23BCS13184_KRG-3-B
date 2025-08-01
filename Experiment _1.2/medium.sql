@@ -1,5 +1,5 @@
 /*
-Experiment - 2.1
+Experiment 1.2 medium
 Problem Title: Employee-Manager Mapping Using Self-Join
 
 You are a Database Engineer at TalentTree Inc., an enterprise HR analytics platform that stores employee data, including their reporting relationships.
